@@ -1,7 +1,0 @@
-D:\3_Projects_Other\AlgorithmLeaning\SuperMario\SuperMario\bin\Debug\SuperMario.exe.config
-D:\3_Projects_Other\AlgorithmLeaning\SuperMario\SuperMario\bin\Debug\SuperMario.exe
-D:\3_Projects_Other\AlgorithmLeaning\SuperMario\SuperMario\bin\Debug\SuperMario.pdb
-D:\3_Projects_Other\AlgorithmLeaning\SuperMario\SuperMario\obj\Debug\SuperMario.csprojAssemblyReference.cache
-D:\3_Projects_Other\AlgorithmLeaning\SuperMario\SuperMario\obj\Debug\SuperMario.csproj.CoreCompileInputs.cache
-D:\3_Projects_Other\AlgorithmLeaning\SuperMario\SuperMario\obj\Debug\SuperMario.exe
-D:\3_Projects_Other\AlgorithmLeaning\SuperMario\SuperMario\obj\Debug\SuperMario.pdb
